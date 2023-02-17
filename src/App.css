@@ -1,6 +1,51 @@
+
 .App {
   text-align: center;
+
 }
+
+.App Button{
+  color: #000;
+  height: 50px;
+  width: 80px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cv {
+  height: 600px;
+  width: 500px;
+}
+
+#googleMaps div {
+  margin-top: 1%;
+}
+
+.texto {
+  position: relative;
+  height: 15%;
+  width: 60%;
+  text-align: justify;
+  display: flex;
+  margin: auto auto;
+  margin-top: 20px;
+}
+
+.texto1{
+  margin: 20px 20px;
+}
+
+.texto1 h1{
+  text-align: center;
+}
+
+
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +81,7 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
